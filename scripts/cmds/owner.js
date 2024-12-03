@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'Aljur Pogoy & jun jaam',
-      gender: 'Male',
+      name: '𝗔𝗽𝗽𝗹𝗲 𝗬𝗽𝗮𝗿𝗿𝗮𝗴𝘂𝗶𝗿𝗿𝗲',
+      gender: 'Female',
       age: 'over 500000 Years ago',
       height: 'Null',
-      facebookLink: 'https://www.facebook.com/profile.php?id=100073129302064',
-      nick: 'Geo Archon'
+      facebookLink: 'https://www.facebook.com/aravz.zzz',
+      nick: 'Aravz'
     };
 
     const bold = 'https://imgur.com/a/X7Y5Nsv.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
